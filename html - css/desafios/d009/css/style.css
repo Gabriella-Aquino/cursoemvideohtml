@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(80, 80, 80);
+}
+
+h1{
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 30px;
+    text-align: center;
+}
